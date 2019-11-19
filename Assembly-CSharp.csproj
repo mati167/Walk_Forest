@@ -65,39 +65,40 @@
   <ItemGroup>
     <Compile Include="Assets\MouseLook.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Sun.cs" />
     <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>H:/dev/Unity/PrimerProyecto/Walk_Forest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>H:/dev/Unity/git/Walk_Forest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
